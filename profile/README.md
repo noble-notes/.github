@@ -1,12 +1,49 @@
-## Hi there 👋
+## 귀족인데 글 씁니다.
 
-<!--
+블로그 글을 작성하고, 서로 피드백을 주고받으며 글을 발전시키는 스터디입니다.  
+최종적으로는 류시와 함께 리뷰를 진행하며 글을 퇴고하고 업로드합니다.
 
-**Here are some ideas to get you started:**
+## 진행 방식
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 3주 단위로 한 사이클을 진행합니다.
+- 각 주차별 목표 일정은 아래와 같습니다.
+
+| 기간 | 내용 |
+| --- | --- |
+| 1주차 ~ 2주차 | 글 작성 진행 |
+| 2주차 일요일 | 초안 업로드 |
+| 3주차 화요일 | 동료 리뷰 마감 |
+| 3주차 목요일 | 퇴고글 마감 |
+| 3주차 금요일 | 류시와 함께 리뷰 진행 및 최종 업로드 |
+
+---
+
+## 목표
+
+- 꾸준한 글쓰기 습관 만들기
+- 피드백을 통한 글의 완성도 향상
+- 다양한 관점의 글 읽기 및 의견 교환
+- 퇴고 과정을 통한 문장력 개선
+
+---
+
+## 리뷰 방식
+
+### 동료 리뷰
+- 초안 기준으로 자유롭게 피드백을 진행합니다.
+- 문장, 흐름, 구조, 전달력 등에 대해 의견을 남깁니다.
+- 단순 오탈자 수정보다는 “왜 그렇게 느꼈는지”를 함께 전달하는 것을 지향합니다.
+
+### 최종 리뷰
+- 퇴고 이후 류시와 함께 최종 리뷰를 진행합니다.
+- 전체적인 흐름, 전달력, 글의 방향성 등을 함께 점검합니다.
+
+---
+
+## 글 업로드 규칙
+
+- 초안은 반드시 2주차 일요일까지 업로드합니다.
+- 동료 리뷰는 3주차 화요일까지 완료합니다.
+- 퇴고글은 3주차 목요일까지 업로드합니다.
+- 최종 수정 이후 금요일에 업로드를 마무리합니다.
+
