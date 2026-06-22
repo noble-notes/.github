@@ -3,6 +3,9 @@
 블로그 글을 작성하고, 서로 피드백을 주고받으며 글을 발전시키는 스터디입니다.  
 최종적으로는 류시와 함께 리뷰를 진행하며 글을 퇴고하고 업로드합니다.
 
+<img width="534" height="383" alt="Gemini_Generated_Image_2tt8hm2tt8hm2tt8" src="https://github.com/user-attachments/assets/4777d95c-e9ef-421b-a30c-74a97fe555b0" />
+
+
 ---
 
 ## 👥 멤버
